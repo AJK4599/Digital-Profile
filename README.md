@@ -1,22 +1,24 @@
-# Digital-Profile
+JayaKrishna Amathi
+============
+-------------------     ----------------------------
+Roll No                        Y19CB003
+E-mail I'D                     jayakrishnaamathi@gmail.com
+phone.no                       9666327489
+-------------------     ----------------------------
 
+Education
+---------
+2019-2023 (expected)
+:   B.Tech,RVR&JC College of Engineering
+2019
+:   Intermediate,Bhashyam IIT Foundation Academy
+2017
+:   SSC,Bhashyam
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+Programming Languages:
+--------------------
+C,C++,Python
 
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b 
-
-
-1. Item 1
-2. Item 2
-3. Item 3
-   * Item 3a
-   * Item 3b 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpghttps://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg)
+Human Languages:
+--------------------
+English,Telugu
