@@ -8,7 +8,7 @@ phone.no                       9666327489
 
 Education
 ---------
-2019-2023 (expected)
+2023 
 :   B.Tech,RVR&JC College of Engineering
 2019
 :   Intermediate,Bhashyam IIT Foundation Academy
